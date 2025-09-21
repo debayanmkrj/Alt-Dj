@@ -1,0 +1,667 @@
+{
+  "interaction_clips": {
+    "right_hand-volume_faders": [
+      {
+        "filename": "right_hand-volume_faders_00.mp4",
+        "path": "altdj_player_clips\\right_hand-volume_faders_00.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-volume_faders"
+      },
+      {
+        "filename": "right_hand-volume_faders_01.mp4",
+        "path": "altdj_player_clips\\right_hand-volume_faders_01.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-volume_faders"
+      },
+      {
+        "filename": "right_hand-volume_faders_02.mp4",
+        "path": "altdj_player_clips\\right_hand-volume_faders_02.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-volume_faders"
+      },
+      {
+        "filename": "right_hand-volume_faders_03.mp4",
+        "path": "altdj_player_clips\\right_hand-volume_faders_03.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-volume_faders"
+      },
+      {
+        "filename": "right_hand-volume_faders_04.mp4",
+        "path": "altdj_player_clips\\right_hand-volume_faders_04.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-volume_faders"
+      }
+    ],
+    "right_hand-hot_cues": [
+      {
+        "filename": "right_hand-hot_cues_00.mp4",
+        "path": "altdj_player_clips\\right_hand-hot_cues_00.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-hot_cues"
+      },
+      {
+        "filename": "right_hand-hot_cues_01.mp4",
+        "path": "altdj_player_clips\\right_hand-hot_cues_01.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-hot_cues"
+      },
+      {
+        "filename": "right_hand-hot_cues_02.mp4",
+        "path": "altdj_player_clips\\right_hand-hot_cues_02.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-hot_cues"
+      },
+      {
+        "filename": "right_hand-hot_cues_03.mp4",
+        "path": "altdj_player_clips\\right_hand-hot_cues_03.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-hot_cues"
+      },
+      {
+        "filename": "right_hand-hot_cues_04.mp4",
+        "path": "altdj_player_clips\\right_hand-hot_cues_04.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-hot_cues"
+      }
+    ],
+    "right_hand-eq_knobs": [
+      {
+        "filename": "right_hand-eq_knobs_00.mp4",
+        "path": "altdj_player_clips\\right_hand-eq_knobs_00.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-eq_knobs"
+      },
+      {
+        "filename": "right_hand-eq_knobs_01.mp4",
+        "path": "altdj_player_clips\\right_hand-eq_knobs_01.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-eq_knobs"
+      },
+      {
+        "filename": "right_hand-eq_knobs_02.mp4",
+        "path": "altdj_player_clips\\right_hand-eq_knobs_02.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-eq_knobs"
+      },
+      {
+        "filename": "right_hand-eq_knobs_03.mp4",
+        "path": "altdj_player_clips\\right_hand-eq_knobs_03.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-eq_knobs"
+      },
+      {
+        "filename": "right_hand-eq_knobs_04.mp4",
+        "path": "altdj_player_clips\\right_hand-eq_knobs_04.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-eq_knobs"
+      }
+    ],
+    "right_hand-play_pause_buttons": [
+      {
+        "filename": "right_hand-play_pause_buttons_00.mp4",
+        "path": "altdj_player_clips\\right_hand-play_pause_buttons_00.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-play_pause_buttons"
+      },
+      {
+        "filename": "right_hand-play_pause_buttons_01.mp4",
+        "path": "altdj_player_clips\\right_hand-play_pause_buttons_01.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-play_pause_buttons"
+      },
+      {
+        "filename": "right_hand-play_pause_buttons_02.mp4",
+        "path": "altdj_player_clips\\right_hand-play_pause_buttons_02.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-play_pause_buttons"
+      },
+      {
+        "filename": "right_hand-play_pause_buttons_03.mp4",
+        "path": "altdj_player_clips\\right_hand-play_pause_buttons_03.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-play_pause_buttons"
+      },
+      {
+        "filename": "right_hand-play_pause_buttons_04.mp4",
+        "path": "altdj_player_clips\\right_hand-play_pause_buttons_04.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-play_pause_buttons"
+      }
+    ],
+    "right_hand-jog_wheels": [
+      {
+        "filename": "right_hand-jog_wheels_00.mp4",
+        "path": "altdj_player_clips\\right_hand-jog_wheels_00.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-jog_wheels"
+      },
+      {
+        "filename": "right_hand-jog_wheels_01.mp4",
+        "path": "altdj_player_clips\\right_hand-jog_wheels_01.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-jog_wheels"
+      },
+      {
+        "filename": "right_hand-jog_wheels_02.mp4",
+        "path": "altdj_player_clips\\right_hand-jog_wheels_02.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-jog_wheels"
+      },
+      {
+        "filename": "right_hand-jog_wheels_03.mp4",
+        "path": "altdj_player_clips\\right_hand-jog_wheels_03.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-jog_wheels"
+      },
+      {
+        "filename": "right_hand-jog_wheels_04.mp4",
+        "path": "altdj_player_clips\\right_hand-jog_wheels_04.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-jog_wheels"
+      }
+    ],
+    "left_hand-volume_faders": [
+      {
+        "filename": "left_hand-volume_faders_00.mp4",
+        "path": "altdj_player_clips\\left_hand-volume_faders_00.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-volume_faders"
+      },
+      {
+        "filename": "left_hand-volume_faders_01.mp4",
+        "path": "altdj_player_clips\\left_hand-volume_faders_01.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-volume_faders"
+      },
+      {
+        "filename": "left_hand-volume_faders_02.mp4",
+        "path": "altdj_player_clips\\left_hand-volume_faders_02.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-volume_faders"
+      },
+      {
+        "filename": "left_hand-volume_faders_03.mp4",
+        "path": "altdj_player_clips\\left_hand-volume_faders_03.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-volume_faders"
+      },
+      {
+        "filename": "left_hand-volume_faders_04.mp4",
+        "path": "altdj_player_clips\\left_hand-volume_faders_04.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-volume_faders"
+      }
+    ],
+    "left_hand-eq_knobs": [
+      {
+        "filename": "left_hand-eq_knobs_00.mp4",
+        "path": "altdj_player_clips\\left_hand-eq_knobs_00.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-eq_knobs"
+      },
+      {
+        "filename": "left_hand-eq_knobs_01.mp4",
+        "path": "altdj_player_clips\\left_hand-eq_knobs_01.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-eq_knobs"
+      },
+      {
+        "filename": "left_hand-eq_knobs_02.mp4",
+        "path": "altdj_player_clips\\left_hand-eq_knobs_02.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-eq_knobs"
+      },
+      {
+        "filename": "left_hand-eq_knobs_03.mp4",
+        "path": "altdj_player_clips\\left_hand-eq_knobs_03.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-eq_knobs"
+      },
+      {
+        "filename": "left_hand-eq_knobs_04.mp4",
+        "path": "altdj_player_clips\\left_hand-eq_knobs_04.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-eq_knobs"
+      }
+    ],
+    "right_hand-crossfader": [
+      {
+        "filename": "right_hand-crossfader_00.mp4",
+        "path": "altdj_player_clips\\right_hand-crossfader_00.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-crossfader"
+      },
+      {
+        "filename": "right_hand-crossfader_01.mp4",
+        "path": "altdj_player_clips\\right_hand-crossfader_01.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-crossfader"
+      },
+      {
+        "filename": "right_hand-crossfader_02.mp4",
+        "path": "altdj_player_clips\\right_hand-crossfader_02.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-crossfader"
+      },
+      {
+        "filename": "right_hand-crossfader_03.mp4",
+        "path": "altdj_player_clips\\right_hand-crossfader_03.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-crossfader"
+      },
+      {
+        "filename": "right_hand-crossfader_04.mp4",
+        "path": "altdj_player_clips\\right_hand-crossfader_04.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-crossfader"
+      }
+    ],
+    "left_hand-jog_wheels": [
+      {
+        "filename": "left_hand-jog_wheels_00.mp4",
+        "path": "altdj_player_clips\\left_hand-jog_wheels_00.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-jog_wheels"
+      },
+      {
+        "filename": "left_hand-jog_wheels_01.mp4",
+        "path": "altdj_player_clips\\left_hand-jog_wheels_01.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-jog_wheels"
+      },
+      {
+        "filename": "left_hand-jog_wheels_02.mp4",
+        "path": "altdj_player_clips\\left_hand-jog_wheels_02.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-jog_wheels"
+      },
+      {
+        "filename": "left_hand-jog_wheels_03.mp4",
+        "path": "altdj_player_clips\\left_hand-jog_wheels_03.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-jog_wheels"
+      },
+      {
+        "filename": "left_hand-jog_wheels_04.mp4",
+        "path": "altdj_player_clips\\left_hand-jog_wheels_04.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-jog_wheels"
+      }
+    ],
+    "left_hand-hot_cues": [
+      {
+        "filename": "left_hand-hot_cues_00.mp4",
+        "path": "altdj_player_clips\\left_hand-hot_cues_00.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-hot_cues"
+      },
+      {
+        "filename": "left_hand-hot_cues_01.mp4",
+        "path": "altdj_player_clips\\left_hand-hot_cues_01.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-hot_cues"
+      },
+      {
+        "filename": "left_hand-hot_cues_02.mp4",
+        "path": "altdj_player_clips\\left_hand-hot_cues_02.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-hot_cues"
+      },
+      {
+        "filename": "left_hand-hot_cues_03.mp4",
+        "path": "altdj_player_clips\\left_hand-hot_cues_03.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-hot_cues"
+      },
+      {
+        "filename": "left_hand-hot_cues_04.mp4",
+        "path": "altdj_player_clips\\left_hand-hot_cues_04.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-hot_cues"
+      }
+    ],
+    "left_hand-crossfader": [
+      {
+        "filename": "left_hand-crossfader_00.mp4",
+        "path": "altdj_player_clips\\left_hand-crossfader_00.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-crossfader"
+      },
+      {
+        "filename": "left_hand-crossfader_01.mp4",
+        "path": "altdj_player_clips\\left_hand-crossfader_01.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-crossfader"
+      },
+      {
+        "filename": "left_hand-crossfader_02.mp4",
+        "path": "altdj_player_clips\\left_hand-crossfader_02.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-crossfader"
+      },
+      {
+        "filename": "left_hand-crossfader_03.mp4",
+        "path": "altdj_player_clips\\left_hand-crossfader_03.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-crossfader"
+      },
+      {
+        "filename": "left_hand-crossfader_04.mp4",
+        "path": "altdj_player_clips\\left_hand-crossfader_04.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-crossfader"
+      }
+    ],
+    "right_hand-track_screen": [
+      {
+        "filename": "right_hand-track_screen_00.mp4",
+        "path": "altdj_player_clips\\right_hand-track_screen_00.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-track_screen"
+      },
+      {
+        "filename": "right_hand-track_screen_01.mp4",
+        "path": "altdj_player_clips\\right_hand-track_screen_01.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-track_screen"
+      },
+      {
+        "filename": "right_hand-track_screen_02.mp4",
+        "path": "altdj_player_clips\\right_hand-track_screen_02.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-track_screen"
+      },
+      {
+        "filename": "right_hand-track_screen_03.mp4",
+        "path": "altdj_player_clips\\right_hand-track_screen_03.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-track_screen"
+      },
+      {
+        "filename": "right_hand-track_screen_04.mp4",
+        "path": "altdj_player_clips\\right_hand-track_screen_04.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-track_screen"
+      }
+    ],
+    "right_hand-cue_buttons": [
+      {
+        "filename": "right_hand-cue_buttons_00.mp4",
+        "path": "altdj_player_clips\\right_hand-cue_buttons_00.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-cue_buttons"
+      },
+      {
+        "filename": "right_hand-cue_buttons_01.mp4",
+        "path": "altdj_player_clips\\right_hand-cue_buttons_01.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-cue_buttons"
+      },
+      {
+        "filename": "right_hand-cue_buttons_02.mp4",
+        "path": "altdj_player_clips\\right_hand-cue_buttons_02.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-cue_buttons"
+      },
+      {
+        "filename": "right_hand-cue_buttons_03.mp4",
+        "path": "altdj_player_clips\\right_hand-cue_buttons_03.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-cue_buttons"
+      },
+      {
+        "filename": "right_hand-cue_buttons_04.mp4",
+        "path": "altdj_player_clips\\right_hand-cue_buttons_04.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "right_hand-cue_buttons"
+      }
+    ],
+    "left_hand-cue_buttons": [
+      {
+        "filename": "left_hand-cue_buttons_00.mp4",
+        "path": "altdj_player_clips\\left_hand-cue_buttons_00.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-cue_buttons"
+      },
+      {
+        "filename": "left_hand-cue_buttons_01.mp4",
+        "path": "altdj_player_clips\\left_hand-cue_buttons_01.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-cue_buttons"
+      },
+      {
+        "filename": "left_hand-cue_buttons_02.mp4",
+        "path": "altdj_player_clips\\left_hand-cue_buttons_02.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-cue_buttons"
+      },
+      {
+        "filename": "left_hand-cue_buttons_03.mp4",
+        "path": "altdj_player_clips\\left_hand-cue_buttons_03.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-cue_buttons"
+      },
+      {
+        "filename": "left_hand-cue_buttons_04.mp4",
+        "path": "altdj_player_clips\\left_hand-cue_buttons_04.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-cue_buttons"
+      }
+    ],
+    "left_hand-play_pause_buttons": [
+      {
+        "filename": "left_hand-play_pause_buttons_00.mp4",
+        "path": "altdj_player_clips\\left_hand-play_pause_buttons_00.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-play_pause_buttons"
+      },
+      {
+        "filename": "left_hand-play_pause_buttons_01.mp4",
+        "path": "altdj_player_clips\\left_hand-play_pause_buttons_01.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-play_pause_buttons"
+      },
+      {
+        "filename": "left_hand-play_pause_buttons_02.mp4",
+        "path": "altdj_player_clips\\left_hand-play_pause_buttons_02.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-play_pause_buttons"
+      },
+      {
+        "filename": "left_hand-play_pause_buttons_03.mp4",
+        "path": "altdj_player_clips\\left_hand-play_pause_buttons_03.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-play_pause_buttons"
+      },
+      {
+        "filename": "left_hand-play_pause_buttons_04.mp4",
+        "path": "altdj_player_clips\\left_hand-play_pause_buttons_04.mp4",
+        "confidence": 0.5,
+        "duration": 3.0,
+        "interaction_type": "left_hand-play_pause_buttons"
+      }
+    ]
+  },
+  "beat_sync_ready": true,
+  "clip_durations": {
+    "right_hand-volume_faders": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "right_hand-hot_cues": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "right_hand-eq_knobs": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "right_hand-play_pause_buttons": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "right_hand-jog_wheels": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "left_hand-volume_faders": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "left_hand-eq_knobs": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "right_hand-crossfader": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "left_hand-jog_wheels": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "left_hand-hot_cues": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "left_hand-crossfader": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "right_hand-track_screen": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "right_hand-cue_buttons": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "left_hand-cue_buttons": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ],
+    "left_hand-play_pause_buttons": [
+      3.0,
+      3.0,
+      3.0,
+      3.0,
+      3.0
+    ]
+  }
+}
