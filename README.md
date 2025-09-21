@@ -1,5 +1,8 @@
 # ALT-DJ: AI-Powered DJ Performance Analysis and Style Transfer
 
+![cover](https://github.com/user-attachments/assets/4ebc9dbf-5539-4fcb-927a-80d961f4428b)
+
+
 ## Overview
 
 ALT-DJ is a comprehensive machine learning project for analyzing DJ performances, extracting audio-visual correlations, and performing style transfer between different DJ mixing styles. The system combines computer vision, audio processing, and neural networks to understand and recreate DJ mixing techniques.
